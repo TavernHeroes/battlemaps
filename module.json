@@ -77,6 +77,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://github.com/TavernHeroes/battlemaps/module.json",
-    "download": "https://github.com/TavernHeroes/battlemaps/tavernheroes.zip"
+    "manifest": "https://github.com/TavernHeroes/battlemaps/blob/145829454c835d4b768962529ab78e622102dac1/module.json",
+    "download": "https://github.com/TavernHeroes/battlemaps/blob/145829454c835d4b768962529ab78e622102dac1/tavernheroes.zip"
   }
